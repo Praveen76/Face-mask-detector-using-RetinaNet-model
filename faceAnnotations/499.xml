@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpegImages</folder>
+	<filename>499.jpg</filename>
+	<path>C:\Qurantine\Web Scrapping\jpegImages\499.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>264</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>58</ymin>
+			<xmax>149</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

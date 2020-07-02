@@ -1,0 +1,38 @@
+<annotation>
+	<folder>jpegImages</folder>
+	<filename>139.jpg</filename>
+	<path>C:\Qurantine\Web Scrapping\jpegImages\139.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>585</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>19</ymin>
+			<xmax>338</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>noMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>7</ymin>
+			<xmax>756</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

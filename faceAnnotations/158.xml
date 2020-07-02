@@ -1,0 +1,38 @@
+<annotation>
+	<folder>jpegImages</folder>
+	<filename>158.jpg</filename>
+	<path>C:\Qurantine\Web Scrapping\jpegImages\158.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>744</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>3</ymin>
+			<xmax>329</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>noMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>428</xmin>
+			<ymin>16</ymin>
+			<xmax>694</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>
