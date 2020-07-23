@@ -1,2 +1,0 @@
-2 epcohs , 500 steps
-499/500 [============================>.] - ETA: 44s - loss: 1.0587 - regression_loss: 0.8343 - classification_loss: 0.22500/500 [==============================] - 22385s 45s/step - loss: 1.0587 - regression_loss: 0.8344 - classification_loss: 0.2243
