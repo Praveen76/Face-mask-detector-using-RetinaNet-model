@@ -11,7 +11,7 @@ I recently had an idea to apply my deep learning knowledge to help the current s
   *maskDetectorJPEGImages: This directory contains original data.
   * maskDetectorXMLfiles: This directory contained the xml files produced after annotation of images. Each xml file contains the coordinates of the bounding box.
 
-* ** keras-retinanet:** This directory is produced after installing keras-retinanet. You can check retinaNet-maskDetector.ipynb notebook to get more details on installation.
+* **keras-retinanet:** This directory is produced after installing keras-retinanet. You can check retinaNet-maskDetector.ipynb notebook to get more details on installation.
 * **maskDetectorClasses:** This file has been exporrted from the experiment . It contains the coordinates of the bounding boxes along with their classes. Please check notebook for more details.
 * **maskDetectorClasses:**  This file contains the information about the classes involved, mask and noMask in our case study.
 * **retinaNet-maskDetector**: This is the python notebook that you can run to implement face mask detector on your own.
@@ -39,7 +39,7 @@ In case of any issue with installation or otherwise, please contact me on [Linke
 # **Article published on Analytics Vidhya:** 
 * I've published a comprehensive case study on implementation of Face Mask Detector using RetinaNet Model. You can refer this [link](https://www.analyticsvidhya.com/blog/2020/08/how-to-build-a-face-mask-detector-using-retinanet-model/) to get more details.
 
-# **Implementation of Face mask detector using RetinaNet model**
+# **Important learnings from implementation of Face mask detector using RetinaNet model**
 * How to clone & install the keras-retinanet repository
 * How to gather a large amount of Data for Deep learning tasks
 * Create Dataset for your model training.
@@ -47,7 +47,7 @@ In case of any issue with installation or otherwise, please contact me on [Linke
 * Model Testing
 * Final Notes
   
-# **Important learnings:**
+# **Important learnings from the article:**
 * What is RetinaNet Model
 * Need for RetinaNet Model
 * The Architecture of RetinaNet
