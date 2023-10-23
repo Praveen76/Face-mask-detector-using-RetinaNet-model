@@ -14,7 +14,9 @@ I recently had an idea to apply my deep learning knowledge to help the current s
 * **keras-retinanet:** This directory is produced after installing keras-retinanet. You can check retinaNet-maskDetector.ipynb notebook to get more details on installation.
 * **maskDetectorClasses:** This file has been exporrted from the experiment . It contains the coordinates of the bounding boxes along with their classes. Please check notebook for more details.
 * **maskDetectorClasses:**  This file contains the information about the classes involved, mask and noMask in our case study.
-* **retinaNet-maskDetector**: This is the python notebook that you can run to implement face mask detector on your own.
+* **retinaNet-maskDetector.ipynb**: This is the python notebook that you can run to implement face mask detector on your own.
+
+**Note**: Kindly note that I've tested it on a very small Dataset with very minimal epochs. YOu'll need much larger dataset and epochs to get better results and accuracy.
 
 # Instructions for Installation
 Download Dataset from the above Link and store the files in the data folder. Run any of the Python notebook according to the task desired
