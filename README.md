@@ -2,7 +2,7 @@
 
 We are grappling with a pandemic that’s operating at a never-before-seen scale. Researchers all over the globe are frantically trying to develop a vaccine or a cure for COVID-19 while doctors are just about keeping the pandemic from overwhelming the entire world. On the other hand, many countries have found social distancing, using masks & gloves a way to curb the situation a little.
 
-![Face Mask Detector ](https://github.com/Praveen76/Face-mask-detector-using-RetinaNet-model/blob/master/FaceMaskDetector.png)
+![Face Mask Detector ](https://github.com/Praveen76/Face-mask-detector-using-RetinaNet-model/blob/master/Data/FaceMaskDetector.png)
 
 I recently had an idea to apply my deep learning knowledge to help the current situation a little. In this article, I’ll introduce you to the implementation of RetinaNet with little background & working on it.
 
