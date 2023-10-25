@@ -4,7 +4,7 @@ We are grappling with a pandemic that’s operating at a never-before-seen scale
 
 ![Face Mask Detector ](https://github.com/Praveen76/Face-mask-detector-using-RetinaNet-model/blob/master/Data/FaceMaskDetector.png)
 
-I recently had an idea to apply my deep learning knowledge to help the current situation a little. In this article, I’ll introduce you to the implementation of RetinaNet with little background & working on it.
+I recently had an idea to apply my deep learning knowledge to help the current situation a little. In this project, I’ll introduce you to the implementation of RetinaNet with little background & working on it.
 
 # Directory Structure
 * **Data :** This directory has input files that you'll need to important orginal Data. You can create your own dataset too. You can follow my [this article](https://towardsmachinelearning.org/web-scraping-using-selenium-with-python/) to create your own dataset for your deep learning tasks.
