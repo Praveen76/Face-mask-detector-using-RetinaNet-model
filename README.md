@@ -21,7 +21,7 @@ I recently had an idea to apply my deep learning knowledge to help the current s
 
 # Instructions for Installation
 
-**Dependencies:**
+**Dependencies:** : You'll need to install below dependencies to run this project.
 * numpy: 1.18.1
 * pandas: 1.0.1
 * matplotlib: 3.1.3
