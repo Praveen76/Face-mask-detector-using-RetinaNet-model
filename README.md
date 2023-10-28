@@ -34,9 +34,6 @@ I recently had an idea to apply my deep learning knowledge to help the current s
 * glob
 * xml
 
-The code has been tested on Windows system. It should work well on other distributions but has not yet been tested.
-
-In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
 # **Article published on Analytics Vidhya:** 
 * I've published a comprehensive case study on implementation of Face Mask Detector using RetinaNet Model. You can refer this [link](https://www.analyticsvidhya.com/blog/2020/08/how-to-build-a-face-mask-detector-using-retinanet-model/) to get more details.
@@ -57,6 +54,15 @@ In case of any issue with installation or otherwise, please contact me on [Linke
    * Subnetwork for object Classification
    * Subnetwork for object Regression
 * What is Focal Loss, and why it's important in object detection algorithms?
+
+# License:
+This project is open-source and distributed under the MIT License. Feel free to use and modify the code as needed.
+
+# Issues:
+If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
+
+# Contact:
+The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. In case of any issue with installation or otherwise, please contact me on[Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
 # **About Me:**
 I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite [TowardsMachineLearning.Org](https://towardsmachinelearning.org/) , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
