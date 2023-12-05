@@ -6,7 +6,7 @@ We are grappling with a pandemic that’s operating at a never-before-seen scale
 
 I recently had an idea to apply my deep learning knowledge to help the current situation a little. In this project, I’ll introduce you to the implementation of RetinaNet with little background & working on it.
 
-# Directory Structure
+## Directory Structure
 * **Data :** This directory has input files that you'll need to important orginal Data. You can create your own dataset too. You can follow my [this article](https://towardsmachinelearning.org/web-scraping-using-selenium-with-python/) to create your own dataset for your deep learning tasks.
   *maskDetectorJPEGImages: This directory contains original data.
   * maskDetectorXMLfiles: This directory contained the xml files produced after annotation of images. Each xml file contains the coordinates of the bounding box.
@@ -19,7 +19,7 @@ I recently had an idea to apply my deep learning knowledge to help the current s
 
 **Note**: Kindly note that I've tested it on a very small Dataset with very minimal epochs. You'll need much larger dataset and epochs to get better results and accuracy.
 
-# Instructions for Installation
+## Instructions for Installation
 
 **Dependencies:** : You'll need to install below dependencies to run this project.
 * numpy: 1.18.1
@@ -35,7 +35,7 @@ I recently had an idea to apply my deep learning knowledge to help the current s
 * xml
 
 
-# **Article published on Analytics Vidhya:** 
+## **Article published on Analytics Vidhya:** 
 * I've published a comprehensive case study on implementation of Face Mask Detector using RetinaNet Model. You can refer this [link](https://www.analyticsvidhya.com/blog/2020/08/how-to-build-a-face-mask-detector-using-retinanet-model/) to get more details.
 
 # **Important learnings from implementation of Face mask detector using RetinaNet model**
@@ -46,7 +46,7 @@ I recently had an idea to apply my deep learning knowledge to help the current s
 * Model Testing
 * Final Notes
   
-# **Important learnings from the article:**
+## **Important learnings from the article:**
 * What is RetinaNet Model
 * Need for RetinaNet Model
 * The Architecture of RetinaNet
@@ -55,16 +55,14 @@ I recently had an idea to apply my deep learning knowledge to help the current s
    * Subnetwork for object Regression
 * What is Focal Loss, and why it's important in object detection algorithms?
 
-# License:
+## License:
 This project is open-source and distributed under the MIT License. Feel free to use and modify the code as needed.
 
-# Issues:
+## Issues:
 If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
 
 # Contact:
 The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
-# **About Me:**
-I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite [TowardsMachineLearning.Org](https://towardsmachinelearning.org/) , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
-
-
+## **About Me**:
+I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
